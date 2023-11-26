@@ -12,3 +12,28 @@ body {
     height: 100vh;
     background-color: #ecedec;
 }
+.barra {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagen{
+display: flex;
+margin-left: 15%;
+padding: 3%;
+}
+.imagen img{
+    border-radius: 50%;
+    width: 20%;
+    height: 80%;
+    padding-right: 3%;
+}
+.imagen span{
+    font-size:10px;
+}
+.iconos{
+    margin-top: 5%;
+    display: flex;
+    gap: 10px;
+    padding-right: 10%;
+}
