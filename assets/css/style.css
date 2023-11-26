@@ -44,3 +44,55 @@ padding: 3%;
     align-items: center;
     margin: 10%;
 }
+.boton p {
+    text-align: center;
+    color: #ffffff;
+    width: 70%;
+    padding: 5%;
+    background-color: #b09fdc;
+}
+
+aside {
+    width: 20%;
+    background-color: #ffffff;
+}
+
+aside ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 25px;
+    border-top: 1px solid gray;
+}
+
+aside ul li p {
+    margin-left: 3%;
+}
+
+aside ul li p span {
+    font-size: small;
+}
+
+aside img {
+    border-radius: 50%;
+    width: 18%;
+
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+}
+
+main img {
+
+    width: 20%;
+}
+
+main p {
+    text-align: center;
+
+}
