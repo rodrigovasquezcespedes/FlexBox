@@ -37,3 +37,10 @@ padding: 3%;
     gap: 10px;
     padding-right: 10%;
 }
+.boton {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+}
